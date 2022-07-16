@@ -1,0 +1,22 @@
+{
+  "name": "nodestreams",
+  "version": "1.0.0",
+  "description": "demo app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seanr89/NodeStreams.git"
+  },
+  "author": "sean",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seanr89/NodeStreams/issues"
+  },
+  "homepage": "https://github.com/seanr89/NodeStreams#readme",
+  "dependencies": {
+    "csv": "^6.2.0"
+  }
+}
